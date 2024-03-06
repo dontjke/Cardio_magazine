@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Cardio magazine</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="time">time</string>
+    <string name="pulse">Pulse</string>
+    <string name="systolicPressure">systolicPressure</string>
+    <string name="diastolicPressure">diastolicPressure</string>
+    <string name="blank">blank</string>
+    <string name="date">Date</string>
+    <string name="enter_the_data">Enter the data</string>
+    <string name="add">add</string>
+    <string name="cancel">cancel</string>
+    <string name="systolic_pressure">Systolic Pressure</string>
+    <string name="diastolic_pressure">Diastolic Pressure</string>
 </resources>

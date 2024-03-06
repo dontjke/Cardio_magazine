@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527100993434",
+    "project_id": "cardiomagazine-f8ec7",
+    "storage_bucket": "cardiomagazine-f8ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527100993434:android:b9ffb63d6da7afc25e6423",
+        "android_client_info": {
+          "package_name": "com.stepanov.cardiomagazine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXtbo5IfXC75a7JR34R8RaacM9fmf96F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
